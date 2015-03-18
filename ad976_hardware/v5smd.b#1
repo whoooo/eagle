@@ -1911,12 +1911,14 @@ Please make sure your boards conform to these design rules.</description>
 <contactref element="IC5" pad="2"/>
 <contactref element="C9" pad="1"/>
 <contactref element="R12" pad="2"/>
-<wire x1="38.1" y1="22.86" x2="43.815" y2="27.94" width="0.4064" layer="16"/>
-<wire x1="43.815" y1="27.94" x2="40.64" y2="27.94" width="0.8128" layer="16"/>
 <wire x1="40.64" y1="27.94" x2="38.735" y2="30.48" width="0.8128" layer="16"/>
 <wire x1="38.735" y1="30.48" x2="38.735" y2="30.985" width="0.8128" layer="16"/>
 <wire x1="49.53" y1="25.66" x2="47.885" y2="27.94" width="0.8128" layer="16"/>
-<wire x1="47.885" y1="27.94" x2="43.815" y2="27.94" width="0.8128" layer="16"/>
+<wire x1="47.885" y1="27.94" x2="43.18" y2="27.94" width="0.8128" layer="16"/>
+<wire x1="43.18" y1="27.94" x2="40.64" y2="27.94" width="0.8128" layer="16"/>
+<wire x1="38.1" y1="22.86" x2="40.64" y2="22.86" width="0.4064" layer="16"/>
+<wire x1="40.64" y1="22.86" x2="43.18" y2="25.4" width="0.4064" layer="16"/>
+<wire x1="43.18" y1="25.4" x2="43.18" y2="27.94" width="0.4064" layer="16"/>
 </signal>
 <signal name="N$7">
 <contactref element="JP3" pad="1"/>
